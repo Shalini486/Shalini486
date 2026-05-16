@@ -96,8 +96,8 @@ A web application to explore street foods around the world with map integration.
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 📧 Email: gowdashalini866@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/shalinigowda441 
 
 ---
 
