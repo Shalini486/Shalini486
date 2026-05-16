@@ -73,6 +73,51 @@
 
 ---
 
+## 🏆 Certifications & Internship
+
+### 💼 Full Stack Web Development Internship
+**AiROBOSOFT Products and Services LLP**  
+📅 Feb 2025 - Mar 2025  
+
+- Completed internship in **Full Stack Web Development**
+- Gained practical exposure to web development concepts
+- Performance rated as **Very Good**
+
+---
+
+### 🤖 Advanced Python and Artificial Intelligence
+**Unibuddy Edutech**  
+📅 15 May 2023 - 27 Jul 2023  
+⏱️ 45 Hours Training  
+
+- Completed certification training in **Advanced Python and Artificial Intelligence**
+- Learned Python programming concepts and AI fundamentals
+
+---
+
+### 📊 Power BI Workshop
+**OfficeMaster**  
+📅 Issued: 15 Dec 2024  
+
+- Completed **Power BI Workshop**
+- Learned to create AI-powered interactive dashboards in Power BI
+
+---
+
+### 🎯 TCS iON Career Edge - Young Professional
+**TCS iON**  
+📅 24 Nov 2024 - 12 Dec 2024  
+
+- Completed professional skills training covering:
+  - Communication Skills
+  - Presentation Skills
+  - Resume Writing
+  - Group Discussion Skills
+  - Interview Skills
+  - Business Etiquette
+  - Artificial Intelligence Overview
+
+
 ## 🎯 Interests
 
 - Machine Learning  
