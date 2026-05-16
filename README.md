@@ -15,32 +15,49 @@
 - 🎯 Goal: Software Developer  
 
 ---
-
 ## 💻 Technical Skills
 
 ### 🧑‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+<img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" /> JavaScript
 </p>
+
+---
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" /> React.js
 </p>
+
+---
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" /> Flask
 </p>
+
+---
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" /> MySQL
 </p>
+
+---
 
 ### 🛠️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" /> VS Code &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" /> Postman
 </p>
 
 ---
