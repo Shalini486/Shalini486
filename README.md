@@ -21,8 +21,6 @@
   MCA Student and aspiring Full Stack Developer passionate about building useful, user-friendly, and impactful software applications.
   <br>
   Interested in Full Stack Development, Machine Learning, Artificial Intelligence, and MERN Stack Development.
-  <br>
-  Skilled in Python, Java, JavaScript, React, Node.js, Express, MongoDB, MySQL, HTML, and CSS.
 </p>
 
 <br>
@@ -48,7 +46,17 @@
 🔗 [GitHub](https://github.com/Shalini486) | [LinkedIn](https://www.linkedin.com/in/shalinigowda441)
 
 --- 
+## Professional Summary
 
+MCA Student and aspiring **Full Stack Developer** passionate about building user-friendly, scalable, and impactful software applications. Skilled in **Python, Java, JavaScript, React, Node.js, Express, MongoDB, MySQL, HTML, and CSS**, with growing knowledge in **Artificial Intelligence, Machine Learning, and MERN Stack Development**.
+
+- Strong interest in **full stack web development**, backend APIs, and database-driven applications.
+- Completed projects such as **Online Book Library Management System** and **Street Food Explorer**.
+- Completed internship in **Full Stack Web Development** at AiROBOSOFT Products and Services LLP.
+- Certified in **Advanced Python and Artificial Intelligence**, **Power BI Workshop**, and **TCS iON Career Edge - Young Professional**.
+- Adaptable learner with interest in **problem solving, software development, and emerging technologies**.
+
+---
 ---
 
 ## 🎓 Education
