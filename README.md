@@ -73,13 +73,10 @@
 
 ### 🌍 Street Food Explorer
 <p>
-  Explore global street foods with location tracking.  
-  ✔️ Interactive Maps (OpenStreetMap)  
-  ✔️ MERN Stack Implementation  
+A web application to explore street foods around the world with map integration.
 </p>
 
-🔗 Link: https://github.com/YOUR_USERNAME/street-food-explorer
-
+🔗 <a href="https://github.com/Shalini486/streetfood">View Project</a>
 ---
 
 ## 📊 GitHub Stats
