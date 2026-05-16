@@ -144,7 +144,15 @@ A full-stack application designed to manage books, users, and transactions.
 ---
 
 ### 🌍 Street Food Explorer
-A web application to explore street foods around the world with map integration.
+A web application to explore popular street foods from different places with an interactive and user-friendly interface.
+
+**Features:**
+- Explore different street food items with details  
+- Search and browse food information easily  
+- View food-related images and descriptions  
+- Map integration to discover locations  
+- Clean and responsive user interface  
+- Helps users learn about famous street foods  
 
 🔗 [View Project](https://github.com/Shalini486/streetfood)
 
