@@ -29,7 +29,7 @@
 
 | Course | Institution | Board / University | Year |
 |---|---|---|---|
-| Master of Computer Applications (MCA) | SMVIT College, Bangalore | - | Dec 2025 - Present |
+| Master of Computer Applications (MCA) | SMVIT College, Bangalore | Visvesvaraya Technological University | Dec 2025 - Present |
 | Bachelor of Computer Applications (BCA) | Dr. N.S.A.M First Grade College | Bengaluru City University | 2022 - 2025 |
 | Pre-University Course (CEBA) | Nagarjuna PU College | Karnataka PU Board | 2020 - 2022 |
 
