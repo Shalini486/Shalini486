@@ -57,7 +57,6 @@ MCA Student and aspiring **Full Stack Developer** passionate about building user
 - Adaptable learner with interest in **problem solving, software development, and emerging technologies**.
 
 ---
----
 
 ## 🎓 Education
 
@@ -173,7 +172,6 @@ A full-stack application designed to manage books, users, and transactions.
 - User management  
 - CRUD operations  
 
-🔗 Project Link: `Add your project link here`
 
 ---
 
