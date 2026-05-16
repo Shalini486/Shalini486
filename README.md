@@ -39,6 +39,31 @@
 ---
 ---
 
+## 🎓 Education
+
+### Master of Computer Applications (MCA)
+**SMVIT College, Bangalore**  
+Joined: Dec 2025 - Present
+
+### Bachelor of Computer Applications (BCA)
+**Dr. N.S.A.M First Grade College**  
+Bengaluru City University  
+2022 - 2025
+
+### Pre-University Course (CEBA)
+**Nagarjuna PU College**  
+Karnataka PU Board  
+2020 - 2022
+
+---
+
+## 🗣️ Languages
+
+- English
+- Kannada
+- Hindi
+
+
 ## 🔬 Currently Learning
 - 🤖 Artificial Intelligence  
 - 🌐 MERN Stack Development  
@@ -76,8 +101,6 @@ A web application to explore street foods around the world with map integration.
 ---
 
 ## 🌐 Connect with Me
-
-🌐 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowdashalini866@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinigowda441)
