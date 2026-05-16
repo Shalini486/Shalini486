@@ -28,7 +28,7 @@
 <div align="center">
   <div style="background-color:#111; color:white; padding:25px; border-radius:10px; width:70%;">
     <p>
-      <i>“Striving to turn ideas into impactful software solutions.”</i>
+      <i>“Learning, building, and growing one project at a time.”</i>
     </p>
   </div>
 </div>
