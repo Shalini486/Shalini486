@@ -15,13 +15,39 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-- 🎓 MCA Student passionate about technology and software development  
-- 💻 Interested in **Full Stack Development**, **Machine Learning**, and **Artificial Intelligence**  
-- 🌱 Currently learning **AI** and **MERN Stack Development**  
-- 🎯 Career Goal: To become a skilled **Software Developer**  
-- ✨ I enjoy building useful projects and learning new technologies  
+<p align="center">
+  MCA Student and aspiring Full Stack Developer passionate about building useful, user-friendly, and impactful software applications.
+  <br>
+  Interested in Full Stack Development, Machine Learning, Artificial Intelligence, and MERN Stack Development.
+  <br>
+  Skilled in Python, Java, JavaScript, React, Node.js, Express, MongoDB, MySQL, HTML, and CSS.
+</p>
+
+<br>
+
+<div align="center">
+  <div style="background-color:#111; color:white; padding:25px; border-radius:10px; width:70%;">
+    <p>
+      <i>“Striving to turn ideas into impactful software solutions.”</i>
+    </p>
+  </div>
+</div>
+
+<br>
+
+---
+
+# Shalini N
+
+**MCA Student | Full Stack Developer | Machine Learning Enthusiast**
+
+📍 Bangalore, Karnataka, India  
+📧 [Gmail](mailto:gowdashalini866@gmail.com)  
+🔗 [GitHub](https://github.com/Shalini486) | [LinkedIn](https://www.linkedin.com/in/shalinigowda441)
+
+--- 
 
 ---
 
