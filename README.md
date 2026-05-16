@@ -1,5 +1,5 @@
 <!-- Animated Typing Header -->
-<h1 align="center">Hi 👋, I'm Shalini Gowda</h1>
+<h1 align="center">Hi 👋, I'm Shalini N</h1>
 <h3 align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;MCA+Student;Always+Learning+New+Things&center=true&width=500&height=50">
