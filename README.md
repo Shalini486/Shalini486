@@ -79,20 +79,6 @@ A web application to explore street foods around the world with map integration.
 🔗 <a href="https://github.com/Shalini486/streetfood">View Project</a>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shalini486&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini486&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
