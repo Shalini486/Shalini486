@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shalini N</h1>
 
-<h3 align="center">
-  MCA Student | Full Stack Developer | Machine Learning Enthusiast
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;AI+Learner;MERN+Stack+Developer;Always+Learning+New+Things&center=true&width=600&height=50">
